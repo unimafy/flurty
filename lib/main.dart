@@ -37,7 +37,7 @@ class _RootPageState extends State<RootPage> {
         onPressed: () {
           currentPage++;
         },
-        child: const Icon(Icons.add),g
+        child: const Icon(Icons.add),
       ),
       bottomNavigationBar: NavigationBar(
         destinations: const [
